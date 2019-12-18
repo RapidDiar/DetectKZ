@@ -44,7 +44,7 @@ class MainWindow(QtWidgets.QMainWindow):
         print(file_txt)
         # ---------------------------------------------------GOOGLE TRANSLATE API-----------------------------------------------------
         os.environ[
-            'GOOGLE_APPLICATION_CREDENTIALS'] = r"Translation/Google_Translate_Project.json"
+            'GOOGLE_APPLICATION_CREDENTIALS'] = r" Google Translate API File "
         translate_client = translate.Client()
 
         # ----------------------------------------------------------------------------------------------------------------------------
