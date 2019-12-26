@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee61b6ef-6333-4bcf-8a06-92234c022dbf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/New_filter.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +30,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../New_test_prog" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -67,13 +69,13 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="769" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1576416544660">
+    <state x="769" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1576920377942">
       <screen x="53" y="27" width="1867" height="1053" />
     </state>
-    <state x="769" y="311" width="424" height="491" key="FileChooserDialogImpl/53.27.1867.1053@53.27.1867.1053" timestamp="1576416544660" />
-    <state x="642" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1576917622991">
+    <state x="769" y="311" width="424" height="491" key="FileChooserDialogImpl/53.27.1867.1053@53.27.1867.1053" timestamp="1576920377942" />
+    <state x="642" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1577387957257">
       <screen x="53" y="27" width="1867" height="1053" />
     </state>
-    <state x="642" y="380" key="com.intellij.ide.util.TipDialog/53.27.1867.1053@53.27.1867.1053" timestamp="1576917622991" />
+    <state x="642" y="380" key="com.intellij.ide.util.TipDialog/53.27.1867.1053@53.27.1867.1053" timestamp="1577387957257" />
   </component>
 </project>
